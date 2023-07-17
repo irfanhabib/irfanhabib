@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Running an Effective Project Retrospective: Questions You Should Be Asking"
+tags: [project-retro, project-management]
 ---
 
 
