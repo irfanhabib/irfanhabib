@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Setting up GitHub Copilot in Emacs"
+tags: [emacs, copilot]
 ---
 
 I was invited to the [Copilot](https://copilot.github.com/) a long time back, however, I never got round to setting it up since it did not appear to support my IDE of choice.

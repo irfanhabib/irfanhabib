@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Teams should own problems, not solutions"
+tags: [team-leadership]
 ---
 
 

@@ -1,7 +1,9 @@
 ---
 layout: post
-title:  "Deciding on the Language/Framework for your new Project"
+title:  "Picking a Framework for a Project"
+tags: [project-management]
 ---
+
 This advice does not hold if you are embarking on a personal project to learn a new technology. This is advice for selecting a language/framework for a project that is being developed within a company/team.
 
 Recently in the Data Infrastructure team at GoCardless we have started to build a new micro-service to give other teams at GoCardless access to an internal domain-specific data store. Often, at the start of a project we always have discussions in which language/framework we should implement it in.

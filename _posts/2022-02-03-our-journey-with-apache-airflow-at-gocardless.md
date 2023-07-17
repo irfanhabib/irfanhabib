@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Our Journey with Apache Airflow at GoCardless"
+tags: [data-engineering, airflow]
 ---
 
 At GC, we are deeply committed to efficient, reliable, and scalable data processing and have been using Airflow for several years. Initial users of Airflow were just Business Intelligence team and Data Science, today, there are thirteen teams that use the Airflow instance managed by our team for mission critical workflows. As we have expanded we are facing some challenges that are calling for a more robust solution.
